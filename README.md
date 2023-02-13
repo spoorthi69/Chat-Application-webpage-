@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Introduction: 
+## Introduction
 This is a real-time chat application built using Reactjs and ChatEngine API. The application allows you to communicate with others, share photos, links, and other media files.
 
 ## Features

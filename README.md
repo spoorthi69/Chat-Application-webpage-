@@ -2,8 +2,42 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Introduction: 
+This is a real-time chat application built using Reactjs and ChatEngine API. The application allows you to communicate with others, share photos, links, and other media files.
 
+## Features
+Real-time communication: The chat is designed to work in real-time, so that you can receive and send messages instantly.
+
+Sharing of photos and links: The application allows you to share photos and links with your chat partners.
+
+User-friendly interface: The user interface is designed to be simple and easy to use, making it suitable for people of all ages and technical backgrounds.
+
+## Requirements
+Reactjs
+ChatEngine API
+
+## Installation
+To install the application, follow the steps below:
+
+Clone the repository by running the command git clone https://github.com/your-username/react-chat-app.git.
+Navigate to the repository by running the command cd react-chat-app.
+Install the required dependencies by running the command npm install.
+Start the application by running the command npm start.
+
+## Usage
+To use the application, simply sign in with your preferred username and start chatting. You can share photos, links, and other media files by clicking the appropriate button.
+
+## Contributions
+We welcome contributions to the project. If you want to contribute, please follow the steps below:
+1) Fork the repository.
+2) Create a new branch for your changes.
+3) Commit your changes and push the branch to your fork.
+4) Create a pull request from your fork to the main repository.
+
+# This is how the chat-application looks 
+![Screenshot (106)](https://user-images.githubusercontent.com/79088643/218564335-7fe8b9b9-3ec7-438b-babc-2cab983de6c9.png)
+
+## Available scrips 
 In the project directory, you can run:
 
 ### `npm start`
@@ -68,3 +102,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
